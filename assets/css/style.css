@@ -1,0 +1,17 @@
+@import './main.css';
+
+.catogory ,.product{
+
+    width:30%;
+    padding: 15px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.3);
+    text-align: center;
+}
+
+h1{
+
+    font-size: 50px;
+    margin: 10px;
+    text-align: center;
+    color:rgb(33, 59, 203);
+}
