@@ -19,6 +19,9 @@ const data= await getProducts();
 
 console.log(data)
 
+
+
+
 const result = data.products.map( (product)=>{
 
     return `

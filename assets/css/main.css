@@ -29,7 +29,7 @@ ul{
 .row{
     display: flex;
    gap :20px;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
 }
